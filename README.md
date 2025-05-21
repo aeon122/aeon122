@@ -7,7 +7,7 @@
 
 ## 🔧 Technical Skills
 
-- **Languages & Frameworks:** HTML, CSS, JavaScript (basic), CMS integration  
+- **Languages & Frameworks:** HTML, CSS, JavaScript (basic)
 - **Web Development:** Responsive Design, Mobile-First Development, UI/UX Best Practices  
 - **Tools:** Adobe Creative Suite, Code Editors (VS Code), Browser DevTools  
 - **Soft Skills:** <!-- Agile Collaboration, Client Communication, --> Attention to Detail  
