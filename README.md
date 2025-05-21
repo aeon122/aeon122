@@ -53,7 +53,7 @@
 
 ## 🌐 Online Presence
 
-- **Portfolio:** [bryangratts.com](https://bryangratts.com) | [bryangrattsdesign.com](https://bryangrattsdesign.com)  
+- **Portfolio:** <a href="https://bryangratts.com" target="_blank">bryangratts.com</a> | <a href="https://bryangrattsdesign.com" target="_blank">bryangrattsdesign.com</a>
 - **LinkedIn:** [Samuel Bryan Gratts](https://www.linkedin.com/in/samuel-bryan-gratts-a970591ab)  
 - **Email:** aeon122@gmail.com  
 
